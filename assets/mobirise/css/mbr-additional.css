@@ -681,6 +681,8 @@ a {
   transition: color 0.6s;
 }
 .cid-ttgRW8sFkj {
+  padding-top: 10rem;
+  padding-bottom: 10rem;
   background-image: url("../../../assets/images/treesafe-hero.webp");
 }
 .cid-ttgRW8sFkj .mbr-fallback-image.disabled {
